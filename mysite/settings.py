@@ -25,7 +25,7 @@ SECRET_KEY = 'w-zvc=h=#fyn&m15105sjd(3!0%06))&wnw$1dbed6(rgat&a1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','earphone.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.com']
 
 
 # Application definition
